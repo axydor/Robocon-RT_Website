@@ -24,6 +24,28 @@ body, html {
   background-size: cover;
 }
 
+.special_container {
+    background-color: #000;
+    margin: 130px auto;
+    min-height: 320px;
+    width: 940px;
+    overflow: auto;
+    padding: 0px 10px;
+}
+.left {
+    width: 600px;
+    margin-right: 20px;
+}
+.right {
+    width: 320px;
+    height: 300px; 
+    background-color: #999;
+    float: right;
+}
+.panel {
+    background-color: red;
+}
+
 .event-details-header_text {
     position: relative;
     padding: 0 15px;
@@ -69,6 +91,22 @@ body, html {
     max-width: 700px;
     line-height: 25px; 
     font-size: 23px; }
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+}
+
+.card_containter {
+    padding: 2px, 16px;
+}
 
 div.container3 {
    height: 10em;
