@@ -75,6 +75,10 @@ body, html {
   z-index: 1;
   background: rgba(0, 0, 0, 0.4); }
 
+#content {
+    margin: 0 auto;
+}
+
  .header_details {
     position: relative;
     padding: 0 15px;
