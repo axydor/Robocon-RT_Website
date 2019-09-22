@@ -34,4 +34,5 @@ We are not maintaning or looking at this project forever. Therefore, please do t
 
 ## Copyright and License
 
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/gh-pages/LICENSE) license.
+Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/gh-pages/LICENSE) license. We have fethed some images from the web without asking the user permission in order to meet our project deadline, I hope they do not open law-suit against me/us. 
+
