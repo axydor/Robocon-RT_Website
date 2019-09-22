@@ -4,7 +4,7 @@ Beware that website cannot be reached from the above link, because code lives on
 
 ## Preview
 
-
+![Catchy website](./robocon-rt.png)
 
 ## Status
 
