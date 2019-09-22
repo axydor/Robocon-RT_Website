@@ -19,8 +19,8 @@ Beware that website cannot be reached from the above link, because code lives on
 To begin using this template, choose one of the following options to get started:
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/business-frontpage/)
 * Install via npm: `npm i startbootstrap-business-frontpage`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-business-frontpage.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-business-frontpage)
+* Clone the repo: `git clone git@github.com:axydor/Robocon-RT_Website.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/axydor/Robocon-RT_Website)
 
 ## Usage
 
@@ -30,7 +30,7 @@ After downloading, simply edit the HTML and CSS files included with the template
 
 ## Bugs and Issues
 
-We are not maintaning or looking at this project forever. Therefore, please do think before asking us a question. 
+We do NOT maintain or look at this project forever. Therefore, please do think twice before asking us a question related to the project. Just joking, always you can ask questions :). By the way, I have to admit that making the website was more joyful than the real project ;)
 
 ## Copyright and License
 
