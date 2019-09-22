@@ -1,6 +1,6 @@
 # [Robocon-RT](http://user.ceng.metu.edu.tr/~e2099018/Robocon-RT_Website/)
 
-Beware that website cannot be reached from the above link, because code lives on my university account.
+Beware that website may not be reached from the above link, because the code lives on my university account.
 
 ## Preview
 
